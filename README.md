@@ -19,8 +19,12 @@ Currently, the agent is configured with a **DevOps/SRE persona** to assist with 
 Create .env folder and put
 ```GEMINI_API_KEY=your-actual-api-key-here```
 
-Images 
-![Uploading successfulchat.png…]()
+Images :
+
+<img width="1848" height="1009" alt="successfulchat" src="https://github.com/user-attachments/assets/f55c7c2c-f02c-431f-9dfb-34b9f25fef23" />
+
+
+
 <img width="1095" height="398" alt="build" src="https://github.com/user-attachments/assets/cf29e5ea-b1a5-455e-bcfe-8f8a284c845c" />
 
 
