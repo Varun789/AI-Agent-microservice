@@ -16,5 +16,5 @@ Currently, the agent is configured with a **DevOps/SRE persona** to assist with 
 * An Gemini API Key 
 
 ### Step 1: Set your API Key
-Create .env folder and 
+Create .env folder and put
 ```GEMINI_API_KEY=your-actual-api-key-here```
