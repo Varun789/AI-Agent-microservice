@@ -34,4 +34,5 @@ jobs:
             --source . \
             --region us-central1 \
             --allow-unauthenticated \
+            --port 8000
             --set-env-vars="GEMINI_API_KEY=${{ secrets.GEMINI_API_KEY }}"
