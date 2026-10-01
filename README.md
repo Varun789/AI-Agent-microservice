@@ -18,3 +18,9 @@ Currently, the agent is configured with a **DevOps/SRE persona** to assist with 
 ### Step 1: Set your API Key
 Create .env folder and put
 ```GEMINI_API_KEY=your-actual-api-key-here```
+
+Images 
+![Uploading successfulchat.png…]()
+<img width="1095" height="398" alt="build" src="https://github.com/user-attachments/assets/cf29e5ea-b1a5-455e-bcfe-8f8a284c845c" />
+
+
